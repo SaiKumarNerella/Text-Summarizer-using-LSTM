@@ -7,7 +7,7 @@ Libraries Used: Numpy, Pandas, re, Spacy,matplotlib,sklearn, Tensorflow, Keras,g
 
 ## Architecture
 
-![alt text](https://github.com/SaiKumarNerella/Generating-Text-from-Images-using-OCR/blob/master/Input.png?raw=true)
+![alt text](https://github.com/SaiKumarNerella/Text-Summarizer-using-LSTM/blob/master/Images/LSTM_Encoder_Decoder.png?raw=true)
  
 
 Seq2Seq model with 
@@ -16,6 +16,8 @@ Encoder-Decoder
 Bidirectional RNN
 Adam Optimizer
 exponential or cyclic learning rate
+
+![alt text](https://github.com/SaiKumarNerella/Text-Summarizer-using-LSTM/blob/master/Images/learning_curve.png?raw=true)
 
 
 
