@@ -12,10 +12,10 @@ Libraries Used: Numpy, Pandas, re, Spacy,matplotlib,sklearn, Tensorflow, Keras,g
 
 Seq2Seq model with 
 
-Encoder-Decoder
-Bidirectional RNN
-Adam Optimizer
-exponential or cyclic learning rate
+Encoder-Decoder<br>
+Bidirectional RNN<br>
+Adam Optimizer<br>
+Exponential or cyclic learning rate <br>
 
 ![alt text](https://github.com/SaiKumarNerella/Text-Summarizer-using-LSTM/blob/master/Images/learning_curve.png?raw=true)
 
